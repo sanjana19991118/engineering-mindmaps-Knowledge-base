@@ -12,6 +12,6 @@ This repository serves as an educational log for my upskilling journey in advanc
 - Latency is the "delay." It’s the time it takes for a single drop of water to travel from the faucet to the nozzle. In gaming or video calls, low latency is key!
 - Throughput is the actual amount of water hitting the bucket. It’s how much data is successfully moving through the system in real-time, often limited by things like clogs or friction.
 
-<img width="864" height="864" alt="download (1)" src="https://github.com/user-attachments/assets/ff38e4ff-7507-4246-a8bc-bdb010bb1520" />
+<img width="40" height="40" alt="download (1)" src="https://github.com/user-attachments/assets/ff38e4ff-7507-4246-a8bc-bdb010bb1520" />
 
 * **Learning Asset:** [Watch Video Summary Here](https://drive.google.com/file/d/1nPPJJQDSSLUUsnIZVo-L2wQ5nxHBnJvl/view?usp=drive_link)

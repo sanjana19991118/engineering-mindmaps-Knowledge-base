@@ -11,6 +11,6 @@ This repository serves as an educational log for my upskilling journey in advanc
 - Bandwidth is the width of the hose. It represents the maximum amount of data that could flow through the connection at once.
 - Latency is the "delay." It’s the time it takes for a single drop of water to travel from the faucet to the nozzle. In gaming or video calls, low latency is key!
 - Throughput is the actual amount of water hitting the bucket. It’s how much data is successfully moving through the system in real-time, often limited by things like clogs or friction.
-  <img width="486" height="253" alt="image" src="https://github.com/user-attachments/assets/cae35fb9-e81e-4e35-8530-69e40e0571e8" />
+ [GIF](https://canva.link/4985i82vdk1exhd)
 
 * **Learning Asset:** [Watch Video Summary Here](https://drive.google.com/file/d/1nPPJJQDSSLUUsnIZVo-L2wQ5nxHBnJvl/view?usp=drive_link)
